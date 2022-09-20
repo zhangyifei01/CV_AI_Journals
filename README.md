@@ -29,6 +29,12 @@ AI、CV方向国际学术期刊，排名不区分前后
 
  - [NMI (Nature Machine Intelligence)](https://www.nature.com/natmachintell/)
 
+ - [NN (Neural Networks)](https://www.sciencedirect.com/journal/neural-networks)
+
+ - [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing/)
+
+ - [PRL (Pattern Recognition Letters)](https://www.sciencedirect.com/journal/pattern-recognition-letters/)
+
 More information：
 
  <table>
@@ -122,8 +128,25 @@ More information：
     <td>1区top</td>
     <td>25.898</td>
   </tr>
-  
+  <tr>
+    <td>NN</td>
+    <td>B</td>
+    <td>2区</td>
+    <td>9.657</td>
+  </tr>
+  <tr>
+    <td>Neurocomputing</td>
+    <td>C</td>
+    <td>2区top</td>
+    <td>5.779</td>
+  </tr>
+  <tr>
+    <td>PRL</td>
+    <td>C</td>
+    <td>3区</td>
+    <td>4.757</td>
+  </tr>
 </table>
 
 
-参考[Web of Science (WOS)](https://www.webofscience.com/wos/woscc/basic-search)
+参考[中国科学院文献情报中心期刊分区表](http://www.fenqubiao.com/) & [Web of Science (WOS)](https://www.webofscience.com/wos/woscc/basic-search).
