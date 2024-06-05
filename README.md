@@ -156,7 +156,7 @@ More information：
   <tr>
     <td>NN</td>
     <td>B</td>
-    <td>2区</td>
+    <td>1区Top</td>
     <td>9.657 --> 7.8</td>
   </tr>
   <tr>
