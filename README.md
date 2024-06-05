@@ -4,9 +4,13 @@ AI、CV方向国际学术期刊，排名不区分前后
 
  - [TIP (IEEE Transactions on Image Processing)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
 
+ - [TKDE (IEEE Transactions on Knowledge and Data Engineering)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)
+
  - [IJCV (International Journal of Computer Vision)](https://www.springer.com/journal/11263)
 
  - [TNNLS (IEEE Transactions on Neural Networks and Learning Systems)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
+
+ - [Proc. IEEE (Proceedings of the IEEE)](https://proceedingsoftheieee.ieee.org/)
 
  - [TCYB (IEEE Transactions on Cybernetics)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)
 
@@ -26,9 +30,13 @@ AI、CV方向国际学术期刊，排名不区分前后
 
  - [CVIU (Computer Vision and Image Understanding)](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding/)
 
+  - [TOMM (ACM Transactions on Multimedia Computing, Communications, and Applications)](https://dl.acm.org/journal/tomm)
+
  - [NMI (Nature Machine Intelligence)](https://www.nature.com/natmachintell/)
 
  - [NN (Neural Networks)](https://www.sciencedirect.com/journal/neural-networks)
+
+ - [KBS (Knowledge-Based Systems)](https://www.sciencedirect.com/journal/knowledge-based-systems)
 
  - [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing/)
 
@@ -41,7 +49,7 @@ More information：
     <th>Name</th>
     <th>CCF</th>
     <th>中科院分区</th>
-    <th>IF (2021-2022)</th>
+    <th>IF (2021-2024)</th>
   </tr>
   <tr>
     <td>TPAMI</td>
@@ -56,10 +64,22 @@ More information：
     <td>11.041 --> 10.6</td>
   </tr>
   <tr>
+    <td>TKDE</td>
+    <td>A</td>
+    <td>2区</td>
+    <td>None --> 8.9</td>
+  </tr>
+  <tr>
     <td>IJCV</td>
     <td>A</td>
     <td>2区top</td>
     <td>13.369 --> 19.5</td>
+  </tr>
+  <tr>
+    <td>Proc. IEEE</td>
+    <td>A</td>
+    <td>1区</td>
+    <td></td>
   </tr>
   <tr>
     <td>TNNLS</td>
@@ -122,6 +142,12 @@ More information：
     <td>4.886 --> 4.5</td>
   </tr>
   <tr>
+    <td>TOMM</td>
+    <td>B</td>
+    <td>3区</td>
+    <td>None --> 5.1</td>
+  </tr>
+  <tr>
     <td>NMI</td>
     <td>None</td>
     <td>1区top</td>
@@ -132,6 +158,12 @@ More information：
     <td>B</td>
     <td>2区</td>
     <td>9.657 --> 7.8</td>
+  </tr>
+  <tr>
+    <td>KBS</td>
+    <td>C</td>
+    <td>1区</td>
+    <td> None --> 8.8</td>
   </tr>
   <tr>
     <td>Neurocomputing</td>
