@@ -2,6 +2,8 @@ AI、CV方向国际学术期刊，排名不区分前后
 
  - [TPAMI (IEEE Transactions on Pattern Analysis and Machine Intelligence)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
 
+ - [NMI (Nature Machine Intelligence)](https://www.nature.com/natmachintell/)
+
  - [TIP (IEEE Transactions on Image Processing)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
 
  - [TKDE (IEEE Transactions on Knowledge and Data Engineering)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)
@@ -24,6 +26,8 @@ AI、CV方向国际学术期刊，排名不区分前后
 
  - [PR (Pattern Recognition)](https://www.sciencedirect.com/journal/pattern-recognition)
 
+ - [NN (Neural Networks)](https://www.sciencedirect.com/journal/neural-networks)
+
  - [AI (Artificial Intelligence)](https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ARTIF%20INTELL&year=2021)
 
  - [JMLR (Journal of Machine Learning Research)](https://www.jmlr.org/) 
@@ -31,10 +35,6 @@ AI、CV方向国际学术期刊，排名不区分前后
  - [CVIU (Computer Vision and Image Understanding)](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding/)
 
   - [TOMM (ACM Transactions on Multimedia Computing, Communications, and Applications)](https://dl.acm.org/journal/tomm)
-
- - [NMI (Nature Machine Intelligence)](https://www.nature.com/natmachintell/)
-
- - [NN (Neural Networks)](https://www.sciencedirect.com/journal/neural-networks)
 
  - [KBS (Knowledge-Based Systems)](https://www.sciencedirect.com/journal/knowledge-based-systems)
 
@@ -56,6 +56,12 @@ More information：
     <td>A</td>
     <td>1区top</td>
     <td>24.314 --> 23.6</td>
+  </tr>
+  <tr>
+    <td>NMI</td>
+    <td>None</td>
+    <td>1区top</td>
+    <td>25.898 --> 23.8</td>
   </tr>
   <tr>
     <td>TIP</td>
@@ -124,6 +130,12 @@ More information：
     <td>8.518 --> 8</td>
   </tr>
   <tr>
+    <td>NN</td>
+    <td>B</td>
+    <td>1区top</td>
+    <td>9.657 --> 7.8</td>
+  </tr>
+  <tr>
     <td>AI</td>
     <td>A</td>
     <td>2区</td>
@@ -146,18 +158,6 @@ More information：
     <td>B</td>
     <td>3区</td>
     <td>None --> 5.1</td>
-  </tr>
-  <tr>
-    <td>NMI</td>
-    <td>None</td>
-    <td>1区top</td>
-    <td>25.898 --> 23.8</td>
-  </tr>
-  <tr>
-    <td>NN</td>
-    <td>B</td>
-    <td>1区top</td>
-    <td>9.657 --> 7.8</td>
   </tr>
   <tr>
     <td>KBS</td>
