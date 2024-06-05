@@ -1,4 +1,3 @@
-# CV_AI_Journals
 AI、CV方向国际学术期刊，排名不区分前后
 
  - [TPAMI (IEEE Transactions on Pattern Analysis and Machine Intelligence)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
@@ -41,110 +40,110 @@ More information：
   <tr>
     <th>Name</th>
     <th>CCF</th>
-    <th>JCR</th>
-    <th>IF</th>
+    <th>中科院分区</th>
+    <th>IF (2021-2022)</th>
   </tr>
   <tr>
     <td>TPAMI</td>
     <td>A</td>
     <td>1区top</td>
-    <td>24.314</td>
+    <td>24.314 --> 23.6</td>
   </tr>
   <tr>
     <td>TIP</td>
     <td>A</td>
     <td>1区top</td>
-    <td>11.041</td>
+    <td>11.041 --> 10.6</td>
   </tr>
   <tr>
     <td>IJCV</td>
     <td>A</td>
     <td>2区top</td>
-    <td>13.369</td>
+    <td>13.369 --> 19.5</td>
   </tr>
   <tr>
     <td>TNNLS</td>
     <td>B</td>
     <td>1区top</td>
-    <td>14.255</td>
+    <td>14.255 --> 10.4</td>
   </tr>
   <tr>
     <td>TCYB</td>
     <td>B</td>
     <td>1区top</td>
-    <td>19.118</td>
+    <td>19.118 --> 11.8</td>
   </tr>
   <tr>
     <td>TMM</td>
     <td>B</td>
     <td>1区top</td>
-    <td>8.182</td>
+    <td>8.182 --> 7.3</td>
   </tr>
   <tr>
     <td>TCSVT</td>
     <td>B</td>
     <td>1区top</td>
-    <td>5.859</td>
+    <td>5.859 --> 8.4</td>
   </tr>
   <tr>
     <td>TIFS</td>
     <td>A</td>
     <td>1区top</td>
-    <td>7.231</td>
+    <td>7.231 --> 6.8</td>
   </tr>
   <tr>
     <td>TITS</td>
     <td>B</td>
     <td>1区top</td>
-    <td>9.551</td>
+    <td>9.551 --> 8.5</td>
   </tr>
   <tr>
     <td>PR</td>
     <td>B</td>
     <td>1区top</td>
-    <td>8.518</td>
+    <td>8.518 --> 8</td>
   </tr>
   <tr>
     <td>AI</td>
     <td>A</td>
     <td>2区</td>
-    <td>14.050</td>
+    <td>14.050 --> 14.4</td>
   </tr>
   <tr>
     <td>JMLR</td>
     <td>A</td>
     <td>3区</td>
-    <td>5.177</td>
+    <td>5.177 --> 6</td>
   </tr>
   <tr>
     <td>CVIU</td>
     <td>B</td>
     <td>3区</td>
-    <td>4.886</td>
+    <td>4.886 --> 4.5</td>
   </tr>
   <tr>
     <td>NMI</td>
     <td>None</td>
     <td>1区top</td>
-    <td>25.898</td>
+    <td>25.898 --> 23.8</td>
   </tr>
   <tr>
     <td>NN</td>
     <td>B</td>
     <td>2区</td>
-    <td>9.657</td>
+    <td>9.657 --> 7.8</td>
   </tr>
   <tr>
     <td>Neurocomputing</td>
     <td>C</td>
     <td>2区top</td>
-    <td>5.779</td>
+    <td>5.779 --> 6</td>
   </tr>
   <tr>
     <td>PRL</td>
     <td>C</td>
     <td>3区</td>
-    <td>4.757</td>
+    <td>4.757 --> 5.1</td>
   </tr>
 </table>
 
