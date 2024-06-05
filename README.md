@@ -72,14 +72,14 @@ More information：
   <tr>
     <td>IJCV</td>
     <td>A</td>
-    <td>2区top</td>
+    <td>2区</td>
     <td>13.369 --> 19.5</td>
   </tr>
   <tr>
     <td>Proc. IEEE</td>
     <td>A</td>
-    <td>1区</td>
-    <td></td>
+    <td>1区top</td>
+    <td>None --> 20.6</td>
   </tr>
   <tr>
     <td>TNNLS</td>
@@ -156,13 +156,13 @@ More information：
   <tr>
     <td>NN</td>
     <td>B</td>
-    <td>1区Top</td>
+    <td>1区top</td>
     <td>9.657 --> 7.8</td>
   </tr>
   <tr>
     <td>KBS</td>
     <td>C</td>
-    <td>1区</td>
+    <td>1区top</td>
     <td> None --> 8.8</td>
   </tr>
   <tr>
