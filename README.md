@@ -4,23 +4,23 @@ AI、CV方向国际学术期刊，排名不区分前后
 
  - [NMI (Nature Machine Intelligence)](https://www.nature.com/natmachintell/)
 
+ - [Proc. IEEE (Proceedings of the IEEE)](https://proceedingsoftheieee.ieee.org/)
+
  - [TIP (IEEE Transactions on Image Processing)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
 
  - [TKDE (IEEE Transactions on Knowledge and Data Engineering)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)
 
  - [IJCV (International Journal of Computer Vision)](https://www.springer.com/journal/11263)
 
- - [TNNLS (IEEE Transactions on Neural Networks and Learning Systems)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
+ - [TIFS (IEEE Transactions on Information Forensics and Security)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
 
- - [Proc. IEEE (Proceedings of the IEEE)](https://proceedingsoftheieee.ieee.org/)
+ - [TNNLS (IEEE Transactions on Neural Networks and Learning Systems)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
 
  - [TCYB (IEEE Transactions on Cybernetics)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)
 
  - [TMM (IEEE Transactions on Multimedia)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
 
  - [TCSVT (IEEE Transactions on Circuits and Systems for Video Technology)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
-
- - [TIFS (IEEE Transactions on Information Forensics and Security)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
 
  - [TITS (IEEE Transactions on Intelligent Transportation Systems)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
 
@@ -64,6 +64,12 @@ More information：
     <td>25.898 --> 23.8</td>
   </tr>
   <tr>
+    <td>Proc. IEEE</td>
+    <td>A</td>
+    <td>1区top</td>
+    <td>None --> 20.6</td>
+  </tr>
+  <tr>
     <td>TIP</td>
     <td>A</td>
     <td>1区top</td>
@@ -82,10 +88,10 @@ More information：
     <td>13.369 --> 19.5</td>
   </tr>
   <tr>
-    <td>Proc. IEEE</td>
+    <td>TIFS</td>
     <td>A</td>
     <td>1区top</td>
-    <td>None --> 20.6</td>
+    <td>7.231 --> 6.8</td>
   </tr>
   <tr>
     <td>TNNLS</td>
@@ -110,12 +116,6 @@ More information：
     <td>B</td>
     <td>1区top</td>
     <td>5.859 --> 8.4</td>
-  </tr>
-  <tr>
-    <td>TIFS</td>
-    <td>A</td>
-    <td>1区top</td>
-    <td>7.231 --> 6.8</td>
   </tr>
   <tr>
     <td>TITS</td>
