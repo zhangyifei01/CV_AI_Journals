@@ -26,6 +26,8 @@
 
  - [TITS (IEEE Transactions on Intelligent Transportation Systems)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
 
+ - [TGRS (IEEE Transactions on Geoscience and Remote Sensing)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
+
  - [PR (Pattern Recognition)](https://www.sciencedirect.com/journal/pattern-recognition)
 
  - [NN (Neural Networks)](https://www.sciencedirect.com/journal/neural-networks)
@@ -172,6 +174,15 @@
     <td>Q1</td>
     <td>9.551 --> 8.5 --> 7.9</td>
     <td>1985 -- 1221</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>TGRS (TGARS)</td>
+    <td>B</td>
+    <td>1区</td>
+    <td>Q1</td>
+    <td>8.125 --> 8.2 --> 7.5</td>
+    <td>2909 -- 2036</td>
     <td>-</td>
   </tr>
   <tr>
