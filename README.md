@@ -26,6 +26,8 @@
 
  - [TITS (IEEE Transactions on Intelligent Transportation Systems)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
 
+ - [TMI (IEEE Transactions on Medical Imaging)](https://www.ieeetmi.org/)
+
  - [TGRS (IEEE Transactions on Geoscience and Remote Sensing)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
 
  - [PR (Pattern Recognition)](https://www.sciencedirect.com/journal/pattern-recognition)
@@ -45,6 +47,10 @@
  - [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing/)
 
  - [PRL (Pattern Recognition Letters)](https://www.sciencedirect.com/journal/pattern-recognition-letters/)
+
+- [TMLR (Transactions on Machine Learning Research)](https://jmlr.org/tmlr/)
+
+- [TAI ( IEEE Transactions on Artificial Intelligence)](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence)
 
 
 ## 分区及影响因子：
@@ -177,6 +183,15 @@
     <td>-</td>
   </tr>
   <tr>
+    <td>TMI</td>
+    <td>B</td>
+    <td>1区top</td>
+    <td>Q1</td>
+    <td>11.037-->10.6-->8.9</td>
+    <td>323 -- 318</td>
+    <td>-</td>
+  </tr>
+  <tr>
     <td>TGRS (TGARS)</td>
     <td>B</td>
     <td>1区</td>
@@ -264,6 +279,24 @@
     <td>Q2</td>
     <td>4.757 --> 5.1 --> 3.9</td>
     <td>287</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>TMLR</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>625</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>TAI</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>147</td>
     <td>-</td>
   </tr>
 </table>
