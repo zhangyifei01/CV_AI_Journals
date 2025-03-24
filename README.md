@@ -104,7 +104,7 @@
   <tr>
     <td>TKDE</td>
     <td>A</td>
-    <td>2区</td>
+    <td>2区 --> 1区Top</td>
     <td>Q1</td>
     <td>9.235 --> 8.9 --> 8.9</td>
     <td>430 -- 927</td>
@@ -122,7 +122,7 @@
   <tr>
     <td>TDSC</td>
     <td>A</td>
-    <td>2区</td>
+    <td>2区 --> 2区Top</td>
     <td>Q1</td>
     <td>6.791 --> 7.3 --> 7</td>
     <td>291 -- 353</td>
@@ -176,7 +176,7 @@
   <tr>
     <td>TITS</td>
     <td>B</td>
-    <td>1区top</td>
+    <td>1区top --> 2区top</td>
     <td>Q1</td>
     <td>9.551 --> 8.5 --> 7.9</td>
     <td>1985 -- 1221</td>
@@ -194,7 +194,7 @@
   <tr>
     <td>TGRS (TGARS)</td>
     <td>B</td>
-    <td>1区</td>
+    <td>1区 --> 1区Top</td>
     <td>Q1</td>
     <td>8.125 --> 8.2 --> 7.5</td>
     <td>2909 -- 2036</td>
@@ -212,7 +212,7 @@
   <tr>
     <td>NN</td>
     <td>B</td>
-    <td>1区top</td>
+    <td>1区top --> 2区top</td>
     <td>Q1</td>
     <td>9.657 --> 7.8 --> 6</td>
     <td>425</td>
@@ -230,7 +230,7 @@
   <tr>
     <td>JMLR</td>
     <td>A</td>
-    <td>3区</td>
+    <td>3区 --> 4区</td>
     <td>Q2</td>
     <td>5.177 --> 6 --> 4.3</td>
     <td>351 -- 257</td>
@@ -266,7 +266,7 @@
   <tr>
     <td>Neurocomputing</td>
     <td>C</td>
-    <td>2区top</td>
+    <td>2区top --> 2区</td>
     <td>Q1</td>
     <td>5.779 --> 6 --> 5.5</td>
     <td>1382</td>
